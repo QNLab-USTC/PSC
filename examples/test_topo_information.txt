@@ -1,0 +1,21 @@
+nodes_list: [<node n1>, <node n2>, <node n3>, <node n4>, <node n5>, <node n6>, <node n7>, <node n8>, <node n9>]
+l_1_2 = 100
+l_1_4 = 100
+l_2_3 = 100
+l_2_5 = 100
+l_3_6 = 100
+l_4_5 = 100
+l_4_7 = 100
+l_5_6 = 100
+l_5_8 = 100
+l_6_9 = 100
+l_7_8 = 100
+l_8_9 = 100
+request_list:
+3
+request0: <node n3>-<node n9>
+request0 path: [<node n3>, <node n6>, <node n9>]
+request1: <node n1>-<node n6>
+request1 path: [<node n1>, <node n2>, <node n3>, <node n6>]
+request2: <node n4>-<node n1>
+request2 path: [<node n4>, <node n1>]

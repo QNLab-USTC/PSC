@@ -1,0 +1,174 @@
+nodes_list: [<node n1>, <node n2>, <node n3>, <node n4>, <node n5>, <node n6>, <node n7>, <node n8>, <node n9>, <node n10>, <node n11>, <node n12>, <node n13>, <node n14>, <node n15>, <node n16>, <node n17>, <node n18>, <node n19>, <node n20>, <node n21>, <node n22>, <node n23>, <node n24>, <node n25>, <node n26>, <node n27>, <node n28>, <node n29>, <node n30>, <node n31>, <node n32>, <node n33>, <node n34>, <node n35>, <node n36>, <node n37>, <node n38>, <node n39>, <node n40>, <node n41>, <node n42>, <node n43>, <node n44>, <node n45>, <node n46>, <node n47>, <node n48>, <node n49>, <node n50>, <node n51>, <node n52>, <node n53>, <node n54>, <node n55>, <node n56>, <node n57>, <node n58>, <node n59>, <node n60>, <node n61>, <node n62>, <node n63>, <node n64>, <node n65>, <node n66>, <node n67>, <node n68>, <node n69>, <node n70>, <node n71>, <node n72>, <node n73>, <node n74>, <node n75>, <node n76>, <node n77>, <node n78>, <node n79>, <node n80>, <node n81>, <node n82>, <node n83>, <node n84>, <node n85>, <node n86>, <node n87>, <node n88>, <node n89>, <node n90>, <node n91>, <node n92>, <node n93>, <node n94>, <node n95>, <node n96>, <node n97>, <node n98>, <node n99>, <node n100>]
+l_1_2 = 0
+l_1_3 = 0
+l_2_4 = 81
+l_2_5 = 80
+l_3_6 = 79
+l_3_7 = 80
+l_4_8 = 81
+l_5_9 = 81
+l_9_10 = 0
+l_8_11 = 81
+l_11_12 = 77
+l_8_13 = 80
+l_1_14 = 0
+l_14_15 = 0
+l_5_16 = 74
+l_8_17 = 0
+l_1_18 = 0
+l_15_19 = 80
+l_2_20 = 82
+l_9_21 = 79
+l_19_22 = 76
+l_3_23 = 84
+l_14_24 = 0
+l_13_25 = 90
+l_23_26 = 81
+l_6_27 = 77
+l_22_28 = 78
+l_19_29 = 81
+l_18_30 = 76
+l_14_31 = 0
+l_20_32 = 0
+l_13_33 = 83
+l_26_34 = 82
+l_18_35 = 0
+l_29_36 = 71
+l_23_37 = 82
+l_32_38 = 0
+l_21_39 = 0
+l_15_40 = 80
+l_6_41 = 86
+l_31_42 = 0
+l_27_43 = 0
+l_25_44 = 73
+l_38_45 = 0
+l_11_46 = 0
+l_30_47 = 77
+l_24_48 = 0
+l_2_49 = 85
+l_7_50 = 0
+l_15_51 = 82
+l_15_52 = 0
+l_6_53 = 79
+l_21_54 = 0
+l_27_55 = 81
+l_43_56 = 0
+l_31_57 = 81
+l_6_58 = 0
+l_12_59 = 81
+l_9_60 = 80
+l_54_61 = 0
+l_4_62 = 0
+l_10_63 = 0
+l_53_64 = 0
+l_12_65 = 78
+l_37_66 = 0
+l_37_67 = 83
+l_33_68 = 83
+l_63_69 = 80
+l_38_70 = 0
+l_12_71 = 85
+l_47_72 = 79
+l_18_73 = 76
+l_36_74 = 79
+l_33_75 = 78
+l_51_76 = 79
+l_75_77 = 87
+l_56_78 = 75
+l_34_79 = 79
+l_38_80 = 0
+l_18_81 = 79
+l_16_82 = 81
+l_66_83 = 0
+l_27_84 = 0
+l_48_85 = 0
+l_50_86 = 0
+l_73_87 = 77
+l_64_88 = 0
+l_87_89 = 82
+l_15_90 = 85
+l_89_91 = 77
+l_77_92 = 76
+l_92_93 = 81
+l_48_94 = 0
+l_27_95 = 81
+l_82_96 = 81
+l_67_97 = 79
+l_5_98 = 0
+l_41_99 = 85
+l_71_100 = 79
+l_75_32 = 0
+l_58_57 = 0
+l_50_35 = 0
+l_2_14 = 0
+l_41_16 = 74
+l_29_24 = 0
+l_64_56 = 0
+l_12_93 = 74
+l_37_74 = 84
+l_4_77 = 87
+l_29_54 = 0
+l_27_70 = 77
+l_75_41 = 81
+l_13_99 = 87
+l_5_68 = 78
+l_22_83 = 0
+l_82_69 = 78
+l_72_51 = 85
+l_46_79 = 0
+l_7_13 = 76
+l_92_71 = 87
+l_30_15 = 85
+l_90_65 = 85
+l_27_89 = 75
+l_91_31 = 81
+l_37_95 = 83
+l_7_7 = 79
+l_52_86 = 0
+l_28_11 = 78
+l_55_89 = 81
+l_64_93 = 0
+l_76_85 = 79
+l_46_24 = 0
+l_72_39 = 0
+l_12_50 = 0
+l_37_62 = 0
+l_76_70 = 79
+l_94_14 = 0
+l_52_37 = 0
+l_42_25 = 0
+l_91_23 = 75
+l_22_76 = 81
+l_21_27 = 85
+l_58_38 = 0
+l_82_66 = 0
+l_29_57 = 81
+l_62_16 = 0
+l_38_49 = 0
+l_95_58 = 0
+l_18_87 = 86
+l_26_31 = 77
+request_list:
+10
+request0: <node n15>-<node n4>-0.7114289832277197
+request0 path: [<node n15>, <node n14>, <node n2>, <node n4>]
+request1: <node n78>-<node n37>-0.7692478642393638
+request1 path: [<node n78>, <node n56>, <node n43>, <node n27>, <node n95>, <node n37>]
+request2: <node n42>-<node n36>-0.7536297817924799
+request2 path: [<node n42>, <node n31>, <node n57>, <node n29>, <node n36>]
+request3: <node n93>-<node n65>-0.7761919890855219
+request3 path: [<node n93>, <node n12>, <node n65>]
+request4: <node n43>-<node n22>-0.7448439303921911
+request4 path: [<node n43>, <node n27>, <node n70>, <node n76>, <node n22>]
+request5: <node n67>-<node n38>-0.7496303404885947
+request5 path: [<node n67>, <node n37>, <node n95>, <node n58>, <node n38>]
+request6: <node n96>-<node n79>-0.7871839362404394
+request6 path: [<node n96>, <node n82>, <node n66>, <node n37>, <node n23>, <node n26>, <node n34>, <node n79>]
+request7: <node n39>-<node n40>-0.7323118372289179
+request7 path: [<node n39>, <node n72>, <node n51>, <node n15>, <node n40>]
+request8: <node n10>-<node n61>-0.7383278294201125
+request8 path: [<node n10>, <node n9>, <node n21>, <node n54>, <node n61>]
+request9: <node n65>-<node n11>-0.7090225222051838
+request9 path: [<node n65>, <node n12>, <node n11>]
+init_fidelity: 0.908
